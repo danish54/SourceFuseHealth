@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T16:07:17 IST" name="Default suite" finished-at="2024-05-01T16:08:01 IST" duration-ms="43572">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T16:07:17 IST" name="Default test" finished-at="2024-05-01T16:08:01 IST" duration-ms="43572">
+      <class name="sourcefuse.TelescopeHealth">
+        <test-method is-config="true" signature="SetupAppium()[pri:0, instance:sourcefuse.TelescopeHealth@41a0aa7d]" started-at="2024-05-01T16:07:17 IST" name="SetupAppium" finished-at="2024-05-01T16:07:39 IST" duration-ms="21925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetupAppium -->
+        <test-method signature="test1()[pri:0, instance:sourcefuse.TelescopeHealth@41a0aa7d]" started-at="2024-05-01T16:07:39 IST" name="test1" finished-at="2024-05-01T16:07:55 IST" duration-ms="15303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:sourcefuse.TelescopeHealth@41a0aa7d]" started-at="2024-05-01T16:07:55 IST" name="Teardown" finished-at="2024-05-01T16:08:01 IST" duration-ms="6276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- sourcefuse.TelescopeHealth -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
